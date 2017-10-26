@@ -1,1 +1,2 @@
 Exercise first day
+Edit file A: exercise_day1
