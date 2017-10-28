@@ -5,3 +5,4 @@ Edit exercise_day1 in branch hotfix_1 2nd time
 Edit file A: exercise_day1
 Edit exercise_day1 in branch hotfix_2
 Edit exercise_day1 in master then edit in another branch then use merge, conpare merge and rebase
+Edit exercise_day1 in feature 1 then use merge on master, conpare merge and rebase
