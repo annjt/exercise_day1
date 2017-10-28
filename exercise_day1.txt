@@ -1,2 +1,3 @@
 Exercise first day
 Edit file A: exercise_day1
+Edit exercise_day1 in feature 1 then use merge on master, conpare merge and rebase
