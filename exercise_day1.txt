@@ -1,4 +1,5 @@
 Exercise first day
 Edit file A: exercise_day1
 Edit exercise_day1 in feature 1 then use merge on master, conpare merge and rebase
-Edit file on remote
+Edit file on remote then pull
+Edit file on remote then merge
