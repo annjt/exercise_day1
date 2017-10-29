@@ -3,3 +3,4 @@ Edit file A: exercise_day1
 Edit exercise_day1 in feature 1 then use merge on master, conpare merge and rebase
 Edit file on remote then pull
 Edit file on remote then merge
+Edit file from feature_1 and force on remote
